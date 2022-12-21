@@ -17,7 +17,7 @@ We choose the following stack:
 Clone this repository:
 
 ```
-git clone https://github.com/MATA62-TRABALHO-2022-1/api.git
+git clone https://github.com/hrezend/mata62-ufba-api-validacao-de-diplomas.git
 ```
 
 Install npm dependencies:
