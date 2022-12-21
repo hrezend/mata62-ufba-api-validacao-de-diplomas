@@ -1,10 +1,16 @@
 {
-  "name": "rest-nestjs",
+  "name": "mata62-api-validacao-de-diplomas",
   "version": "0.0.1",
   "private": true,
+  "engines": {
+    "node": "16.x"
+  },
+  "os": [
+    "ubuntu-latest", "linux"
+  ],
   "description": "",
-  "license": "UNLICENSED",
-  "author": "",
+  "license": "MIT",
+  "author": "Hérson Rezende",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
